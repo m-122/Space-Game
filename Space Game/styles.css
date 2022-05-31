@@ -1,0 +1,13 @@
+html {
+    background-color: rgb(5, 19, 81);
+    min-height: 100%;
+}
+
+#container {
+    width: 400px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5%;
+}
